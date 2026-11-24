@@ -68,10 +68,10 @@
 
 ## 6. Ảnh chụp màn hình
 
-1. [ ] Tab Labels của project.
-2. [ ] Một ảnh camera trước đã gán đủ (làn, vùng lái, đèn/biển).
-3. [ ] Một ảnh fisheye đã gán, phóng to đoạn polyline cong.
-4. [ ] Một đoạn XML có `<polyline label="lane">`.
+1. ![Tab Labels của project](./tabLabel.png)
+2. ![Ảnh camera trước](./front.png)
+3. ![Ảnh camera trước](./fish.png)
+4. ![Ảnh camera trước](./line.png)
 
 ## 7. Tự đánh giá
 
